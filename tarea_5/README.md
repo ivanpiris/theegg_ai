@@ -1,17 +1,14 @@
 # Inteligencia Artificial: Conceptos
 
-Definición: La inteligencia artificial es la capacidad de los ordenadores de aprender diferentes tareas que podemos hacer las personas, utilizando para ello grandes cantidades de datos. Cada tarea a resolver por la máquina necesitará diferentes tipos de datos segun cual sea el caso. Una vez aprendido, creado el modelo, se puede utilizar en entornos de tiempo real para distintos objetivos. Clasificación de imágenes, control de vehículos, etc.
+**Definición:** La inteligencia artificial es una herramienta que presenta, a diferencia de la programación tradicional, la capacidad de aprendizaje, razonamiento, creatividad, etc. En otras palabras, podríamos decir que la IA presenta capacidades atribuidas a las personas. Estas capacidades son utilizadas en una gran cantidad de ámbitos desde la publicidad hasta el procesamiento del lenguaje en asistentes de voz, haciendo uso de un gran volumen de datos.
 
-Aplicaciones IA: Visión artificial:
+**Otras aplicaciones de la IA:** 
 
-Clasificación de imágenes. Detectar obejtos en las imágenes y hacer un tracking en tiempo real.
+- Procesamiento de imágenes y visión artificial
 
-Detectar comida en mal estado.
-Detectar defectos en las piezas.
-Detectar personas en entornos peligrosos.
-Detectar y leer las matrículas de los vehículos.
-Detectar enfermedades a partir de las imágenes de rayos X. Una ayuda para la toma de decisiones.
-Mantenimiento preventivo de máquinas industriales.
+- Análisis de las tendencias bursátiles de activos financieros
 
-Generando diferentes modelos con datos de cuando una máquina a tenido algun problema se podrá anticipar al fallo.
-Analizar las tendecias. Ayuda en toma de decisiones.
+- Recomendación de productos en base a tus búsquedas y compras
+  - Un ejemplo que me llamo mucho la atención sobre este tipo de inteligencia artificial fue el de una cadena de supermercados que lo implementó para enviar promociones de productos relacionados con los bebés y el embarazo a mujeres cuyas compras se asemejasen a las que realizaban las mujeres embarazadas. Este supermecado recibió la llamada de un padre enfadado porque a su hija menor de edad no hacían más que enviarle este tipo de publicidad. Cuando a los pocos días llamó el director al hombre para pedirle perdón, fue este quien comenzó a disculparse: “He hablado con mi hija y resulta que ha habido ciertas actividades en mi casa. Sale de cuentas en agosto. Le debo una disculpa”. Fuente: [El País](https://elpais.com/elpais/2015/08/11/icon/1439304143_858615.html)
+ 
+- Recomendación de series y películas en base a tu actividad en la plataforma
