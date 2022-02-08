@@ -2,7 +2,7 @@
 
 **Definición:** La inteligencia artificial es una herramienta que presenta, a diferencia de la programación tradicional, la capacidad de aprendizaje, razonamiento, creatividad, etc. En otras palabras, podríamos decir que la IA presenta capacidades atribuidas a las personas. Estas capacidades son utilizadas en una gran cantidad de ámbitos desde la publicidad hasta el procesamiento del lenguaje en asistentes de voz, haciendo uso de un gran volumen de datos.
 
-**Otras aplicaciones de la IA:** 
+**Otras aplicaciones de la IA:** Además de las aplicaciones mencionadas en la tarea, esta herramienta se utiliza en muchas otras áreas.
 
 - Procesamiento de imágenes y visión artificial
 
