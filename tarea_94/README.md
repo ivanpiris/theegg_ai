@@ -6,6 +6,8 @@ El módulo se denominará tiempo.py y éste contendrá 3 funciones:
 - caida_marte
 - caida_jupiter
 
+<br>
+
 Todas las funciones deben recibir 1 parámetro:
 <br>
 - segundos de caída: número entero
