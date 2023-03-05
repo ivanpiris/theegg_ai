@@ -1,5 +1,7 @@
 # Tarea 120
 
+En esta tarea resolvemos diferentes ejercicios sobre el dataset de población mundial en el 2020.
+
 ## Ejercicio teórico
 
 Examina detenidamente el siguiente dataset y responde las siguientes preguntas:
